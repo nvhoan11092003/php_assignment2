@@ -28,6 +28,7 @@
         </div>
         <h4 style="color: red ;"> <?= isset($_GET['errorsrp'])  ? $_GET['errorsrp'] : "" ?></h4>
         <button class="btn btn-primary mt-3">Tạo Tài Khoản</button>
+        123
     </form>
 
 </body>
